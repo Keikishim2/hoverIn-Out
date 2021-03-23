@@ -1,0 +1,19 @@
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+#wrapper {
+    width: 970px;
+    font-family: arial;
+    margin: auto;
+    padding: 10px;
+}
+img {
+    width: 24%;
+    height: 30%;
+}
+h1 {
+    text-align: center;
+    font-size: 65px;
+    color: darkorange;
+}
